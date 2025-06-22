@@ -1,2 +1,5 @@
 # C-Projects
-A collection of 25 small but powerful C programs. From classic games like Rock Paper Scissors and Snake, to simple systems like Library Management and Voting System — all the way to the legendary 2048. Built with pure C. No external libraries. Just logic, loops, and terminal magic.
+A collection of 25 simple but effective C programs - sourced from GeeksforGeeks.
+Includes classics like Rock Paper Scissors, Snake, and 2048, as well as practical mini-systems like a Library Management System and a Voting System.
+Built with pure C, without any external libraries.
+Just basic logic, loops, and a terminal interface.
