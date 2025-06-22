@@ -102,5 +102,4 @@ int main(){
     
     return 0;   
 }
-
-//Game made by Xmind404
+// Crafted in C by Xmind404 - no libraries, just logic
